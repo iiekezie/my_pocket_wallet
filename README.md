@@ -1,23 +1,15 @@
-<<<<<<< HEAD
 # my_wallet
 
 A new Flutter project.
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # my_pocket_wallet
-
 - A modern and secure mobile banking application built with Flutter for the frontend and Firebase for the backend. This app provides essential banking functionalities, ensuring an intuitive user experience and robust security.
 
 # Features
@@ -73,6 +65,3 @@ git push origin feature/YourFeatureName
 
 - Open a pull request.
 
-# License
-This project is licensed under the MIT License.
->>>>>>> 092d24a0142abcf7f205992f5c8611bf7966b39e
